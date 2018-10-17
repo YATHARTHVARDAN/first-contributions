@@ -8154,3 +8154,4 @@ Orandi Harris
 - [yulivee](https://github.com/yulivee)
 - [Vadim Pashaev](https://github.com/vmp)
 - [Dimo Ivanov](https://github.com/divanoff)
+- [Yatharth Vardan](https://github.com/YATHARTHVARDAN)
